@@ -1,14 +1,14 @@
 # my-summer-in-markdown
 
-## Topic 1
+## Summer Travel Experiences
 
-## Topic 2
+## Favorite Summer Food
 
-## Topic 3
+## Most Memorable Experience
 
-## Topic 4
+## Summer Playlist
 
-## Topic 5
+## Favorite Summer Memory With Friends
 
 **BOLD**
 
@@ -22,6 +22,6 @@
 1. Number 1
 2. Number 2
  
-[CLICK here to read about the panda]()
+[text](link)
 
-![Panda image]()
+![text](link)
